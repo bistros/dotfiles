@@ -1,0 +1,13 @@
+gvm ( http://gvmtool.net )
+- gradle
+- grails
+- groovy
+- springboot
+
+
+
+brew ( http://brew.sh ) 
+- wget
+
+nodejs ( http://www.nodejs.org )
+
