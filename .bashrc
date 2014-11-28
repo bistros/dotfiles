@@ -14,6 +14,7 @@ alias cp="cp -i"
 alias rm="rm -iv"
 alias gls="gls --color"
 alias ll="ls -lFG"
+alias ls="ls -latrG"
 alias lt="ls -ltr"
 alias mv="mv -iv"
 

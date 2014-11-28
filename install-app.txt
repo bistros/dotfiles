@@ -4,7 +4,7 @@ gvm ( http://gvmtool.net )
 - groovy
 - springboot
 
-
+typesafe-activator ( https://typesafe.com/platform/getstarted )
 
 brew ( http://brew.sh ) 
 - wget
