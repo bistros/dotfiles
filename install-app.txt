@@ -8,6 +8,17 @@ typesafe-activator ( https://typesafe.com/platform/getstarted )
 
 brew ( http://brew.sh ) 
 - wget
-
+- maven
+- sbt
+- 
 nodejs ( http://www.nodejs.org )
 
+go (https://golang.org/dl )
+
+mac app
+- iStat
+- alfred
+- gasmask
+- sublime text 3
+
+docker ( https://github.com/boot2docker/osx-installer/releases )
